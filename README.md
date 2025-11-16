@@ -39,6 +39,8 @@ The goal of QPrimeLauncher is to provide:
 
 ## 📁 Project Structure
 
+'''
+
 QPrimeLauncher/
 ├── QPrimeLauncher.ps1 # Main entry script
 ├── modules/
@@ -51,8 +53,7 @@ QPrimeLauncher/
 ├── logs/ # Generated automatically
 └── README.md
 
-yaml
-Copy code
+'''
 
 ---
 
