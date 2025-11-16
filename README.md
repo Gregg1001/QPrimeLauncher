@@ -39,7 +39,7 @@ The goal of QPrimeLauncher is to provide:
 
 ## 📁 Project Structure
 
-'''
+```bash
 
 QPrimeLauncher/
 ├── QPrimeLauncher.ps1 # Main entry script
@@ -53,7 +53,7 @@ QPrimeLauncher/
 ├── logs/ # Generated automatically
 └── README.md
 
-'''
+```
 
 ---
 
